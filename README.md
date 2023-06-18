@@ -1,4 +1,4 @@
-# terraform_code_1
+# Terraform AWS Configuration
 
 # The  code is used to create EC2 instance in AWS console through terraform
 
